@@ -36,7 +36,7 @@ API сервис для расчета капитализации банковс
 
 `git clone https://github.com/Evkos-dev/bank_deposit.git`
 
-`cd bank_deposit`
+`cd bank_deposit/`
 
 Запустить Docker:
 
