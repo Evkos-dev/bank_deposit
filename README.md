@@ -1,6 +1,6 @@
 # Bank deposit
 
-[![CI](https://github.com/Evkos-dev/bank_deposit/actions/workflows/bank_deposit_workflow.yml/badge.svg?branch=master)](https://github.com/Evkos-dev/bank_deposit/actions/workflows/bank_deposit_workflow.yml)
+[![CI](https://github.com/Evkos-dev/bank_deposit/actions/workflows/bank_deposit_workflow.yml/badge.svg?branch=main)](https://github.com/Evkos-dev/bank_deposit/actions/workflows/bank_deposit_workflow.yml)
 
 ### Описание проекта
 API сервис для расчета капитализации банковского вклада. Расчет происходит каждый месяц в число вклада.
