@@ -40,7 +40,9 @@ API сервис для расчета капитализации банковс
 
 Запустить Docker:
 
-`docker run --name bank_deposit -it -p 8000:8000 bank_deposit`
+`docker build -t bank_deposit .` - сборка образа
+
+`docker run --name bank_deposit -it -p 8000:8000 bank_deposit` - запуск контейнера
 
 Запросы отправлять на адресс: 
 
